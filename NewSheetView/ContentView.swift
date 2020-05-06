@@ -3,7 +3,8 @@
 
 SheetViewを表示するかどうかを制御するContentViewに、showSheetView という新しいブール@State変数を追加します。
 isPresentedバインディング（showSheetView状態変数を指す）に基づいてシートを提示するsheet（isPresented :)修飾子を使用します。*/
-// NavigationView { navigationBarItems { Button
+
+// NavigationView { .navigationBarItems { Button { print
 
 import SwiftUI
 
